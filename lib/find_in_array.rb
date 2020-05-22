@@ -10,7 +10,7 @@ def find_element_index(array, value_to_find)
  end
 end
 
-#my alternate solution (no loop)
+#my alternate solution (no loop, using array method)
 #def find_element_index(array, value_to_find)
   #array.index(value_to_find)
 #end
